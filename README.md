@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection
 Fraud Detection model based on anonymized credit card transactions
-
+![image](Credit Card Fraud)
 
 Dataset: Transactions made by European cardholders in September 2013.
 Duration: Two days, with 492 frauds out of 284,807 transactions.
